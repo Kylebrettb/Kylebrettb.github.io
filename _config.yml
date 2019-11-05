@@ -1,11 +1,11 @@
 # Site settings
-author: Kyle  Beckstead
-title: 
+author: Kyle Brett Beckstead
+title: Just another one
 header-img: img/home-bg.png
 email: kyle21beckstead@gmail.com
-copyright_name: Kyle  Beckstead
+copyright_name: Kyle Brett Beckstead
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Full Stack Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Kylebrettb
